@@ -10,6 +10,8 @@ a = A / (1 + r/n)^nt
 t = ln(A) / (nln(a * (n + r) / n))
 => t = Math.ln(a) / (n * Math.ln(a * (n + r) / n))
 */
-function cInterest(a, A, n, r, t){
-
+function cInterest(x, y, z){
+  if(x === 0){
+    
+  }
 }
