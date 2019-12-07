@@ -11,6 +11,6 @@ t = ln(A) / (nln(a * (n + r) / n))
 => t = Math.ln(a) / (n * Math.ln(a * (n + r) / n))
 */
 var loader;
-function create(x, y, z){
-
+function interestRate(x, y, z){
+  
 }
